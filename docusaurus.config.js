@@ -58,7 +58,7 @@ const config = {
         title: 'Educational Robotics Book',
         logo: {
           alt: 'Robotics Book Logo',
-          src: 'img/logo.svg',
+          src: 'imgs/logo.jpeg',
         },
         items: [
           {
