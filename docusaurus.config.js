@@ -5,7 +5,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'Educational Robotics Book',
   tagline: 'A comprehensive guide to robotics and AI in educational environments',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/favicon.svg',
 
   // Set the production url of your site here
   url: 'https://jamshaid-aziz121.github.io',
@@ -26,7 +26,7 @@ const config = {
   // may want to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
-    locales: ['en'],
+    locales: ['urdu'],
   },
 
   presets: [
@@ -39,7 +39,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/Jamshaid-aziz121/hackathon_001/tree/master/',
+            'https://github.com/Jamshaid-aziz121/hackathon_001/tree/main/',
         },
         blog: false, // Disable blog functionality
         theme: {
@@ -53,19 +53,19 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'img/logo.png',
       navbar: {
         title: 'Educational Robotics Book',
         logo: {
           alt: 'Robotics Book Logo',
-          src: 'imgs/logo.jpeg',
+          src: 'img/logo.png',
         },
         items: [
           {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Documentation',
+            label: 'Read',
           },
           {
             href: 'https://github.com/Jamshaid-aziz121/hackathon_001',

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- Robot inspired icon -->
+  <circle cx="50" cy="40" r="15" fill="#4c6ef5" /> <!-- Head -->
+  <rect x="35" y="55" width="30" height="30" rx="5" fill="#4c6ef5" /> <!-- Body -->
+  <rect x="25" y="45" width="8" height="15" fill="#4c6ef5" /> <!-- Left arm -->
+  <rect x="67" y="45" width="8" height="15" fill="#4c6ef5" /> <!-- Right arm -->
+  <rect x="40" y="85" width="8" height="15" fill="#4c6ef5" /> <!-- Left leg -->
+  <rect x="52" y="85" width="8" height="15" fill="#4c6ef5" /> <!-- Right leg -->
+
+  <!-- Eyes -->
+  <circle cx="43" cy="37" r="2" fill="#ffffff" />
+  <circle cx="57" cy="37" r="2" fill="#ffffff" />
+
+  <!-- Text "ERB" for Educational Robotics Book -->
+  <text x="50" y="95" text-anchor="middle" font-family="Arial, sans-serif"
+        font-size="10" fill="white" font-weight="bold">ERB</text>
+</svg>
