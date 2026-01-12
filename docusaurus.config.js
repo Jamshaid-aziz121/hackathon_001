@@ -39,7 +39,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/Jamshaid-aziz121/hackathon_001/',
+            'https://github.com/Jamshaid-aziz121/hackathon_001/tree/master/',
         },
         blog: false, // Disable blog functionality
         theme: {
@@ -120,3 +120,4 @@ const config = {
 
 
 export default config;
+
